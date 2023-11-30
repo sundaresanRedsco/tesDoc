@@ -81,8 +81,8 @@ export default function MyApp(props) {
     <div className={`${isLandingPage ? 'page--landing' : ''}`}>
       <Head>
         <title>{`${TITLE} | ${title}`}</title>
-        <link rel="shortcut icon" href="/images/nxt_black_logo.svg" />
-        <link rel="icon" href="/images/nxt_black_logo.svg" />
+        <link rel="shortcut icon" href="/images/favicon.png" />
+        <link rel="icon" href="/images/favicon.png" />
         <link
           rel="preload"
           as="font"

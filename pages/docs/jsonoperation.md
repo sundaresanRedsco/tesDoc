@@ -184,3 +184,4 @@ The user is able to delete the created JSON operation. On clicking on a specific
  On clicking the delete icon, it will display the delete confirmation popup. With a click of the Yes button, the operation will be permanently removed.
 
 ![Images](/images/2003.png) 
+

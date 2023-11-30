@@ -39,7 +39,13 @@ The charts interface displays the real-time reports in chart views in terms of d
 
 The daily chart describes the member activties of the NXT API matrix in terms of monthly activity by existing users and new users.
 
-![Images](/images/dailyuserschart.png)
+- Existing Users: It describes the chart of user activities in the NXT API matrix for one year.
+
+- New Users: It describes the chart of user activities in the NXT API matrix for the last six months.
+
+![Images](/images/Reportuserex.png)                 
+![Images](/images/Reportusernew.png)
+
 
 ### Activity Per Location Chart
 
@@ -77,3 +83,4 @@ The error summary chart describes the status error code for the failed project A
 In the Search tab, you can search for specific projects, collections, or operations, and it will filter the results on the Report page.
 
 The chart header provided the calendar filter option to change the range and get the desired period report.
+

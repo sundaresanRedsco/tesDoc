@@ -10,7 +10,7 @@ The project overview screen on the top right corner has the New button to create
 
   ![Images](/images/collectionmenu.png)
 
-When **Selecting SOAP** option as the communication protocol, the collection screen offers various fields for configuration. These fields typically include Collection Name (a Textbox), Type (a Dropdown), Version (a Dropdown), Enter Base URL (a Textbox), Enter WSDL URL (a Textbox), Add Global Header Key (a Table), Encode (a Checkbox), and Description (a Text Area)
+When **Selecting SOAP** option as the communication protocol, the collection screen offers various fields for configuration. These fields typically include Collection Name *(a Textbox, 30-character limit), Type *(a Dropdown), Version *(a Dropdown), Enter Base URL *(a Textbox), Enter WSDL URL *(a Textbox), Add Global Header Key *(a Table), Encode *(a Checkbox), and Description *(a Text Area, 300-character limit)
 
  
 
@@ -19,9 +19,16 @@ On clicking the Save or Save & Add Operations button, the soap collection gets c
   ![Images](/images/slide300.png)
   ![Images](/images/slide301.png)
   
+ 
     On clicking the save button, a soap collection gets created with a confirmation toast message.
 
   ![Images](/images/slide302.png)
+
+  If a user attempts to create a collections with a name that already exists, an error will be displayed: 
+
+**Collection name is already used. Please use different name**.
+
+![Images](/images/Collectionlimit.png)
  
  When you click the 'Save & Add Operations' button, you will be redirected to the SOAP operation slider screen to configure the operation.
 

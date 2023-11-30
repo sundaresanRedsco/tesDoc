@@ -46,6 +46,8 @@ On clicking the `Update` button, a popup will be displayed. Password Successfull
 
 ![Images](/images/Update2.png)
 
+### Help Note
 
+A help note refers to a brief message or statement on our website designed to assist visitors or users. It’s a concise piece of text that provides guidance, information or a welcoming message to enhance the user experience on the site. In the context of a website, a help note might address common queries, explain features and simply offer a friendly greeting to visitors.
 
 

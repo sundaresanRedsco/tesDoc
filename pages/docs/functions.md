@@ -21,7 +21,7 @@ Overview interface is utilized to display information about member activites in 
 
 Information displayed with a table view and its fields are Workspace, Project, Status, Email and Activity  - Enabled user to view and download the records. 
 
-And also the page hasa common teams workspace keyword search option, table has special Dropdown filter for workspace and its project, Calender filter option to view specific duration record, and to download all the logs. 
+And also the page has a common terms refresh key button, workspace keyword search option, table has special Dropdown filter for workspace and its project, Calender filter option to view specific duration record, and to download all the logs. 
  
 
 ## Roles
@@ -55,6 +55,30 @@ Roles interface to view all the the users role available in the NXT  api matrix.
 
 ![Images](/images/abc2.png)
 
+## User Lists
+
+User lists typically refer to collections of user profiles or accounts in our NXT API matrix. These lists can serve various purposes and are often used for organizational, management or communication reasons.
+
+![Images](/images/permissionuserlist.png)
+
+User Lists has the following fields : Name, Email, Role, Last Login and Actions
+
+**Name**: It displays the respective names of users.
+
+**Email**: It displays the respective email of users.
+
+**Role**: It shows the user's respective roles as owner, admin and member.
+
+**Last Login**: It displays the last date and time when a user is authenticated with a username and password. If the "-" icon is shown, it indicates that the user is currently active but has not yet logged in.
+
+**Action**: This action is used to view the workspace and project created by the users.
+
+
+By clicking the ``View`` button, it shows the workspace and project created by the users.
+![Images](/images/permissionuserlistview.png)
+
+![Images](/images/PermissionUserListt.png)
+
 ## Member permission removal
 
 On hovering the result grid it will display with the cancel icon ** "X" ** on click of x icon it will populate the delete confirmation popup to remove the user permission  on click of "NO" button delete popup will get dismissed and by proceeding with "Yes" button member role will be removed for the project .
@@ -78,5 +102,7 @@ Access restriction in Recent activity  interface:
 Access in restriction in Workpspace menu interface:
 
 ![Images](/images/abc6.png)
+
+
 
 

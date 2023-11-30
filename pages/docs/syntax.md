@@ -29,6 +29,19 @@ Published on - Highlighted with green colour text to indicate the project publis
 
 ![Images](/images/c11.png)
 
+Clicking the search drop-down option filters the workspaces created by the user, helping to narrow down and locate a specific workspace searched by users.
+
+![Images](/images/apicollectionshome.png)
+
+Select the specific workspace, choose the desired dates for filtering, and click the 'Apply' button to initiate the filter.
+
+![Images](/images/apicollectionssearch.png)
+
+After applying the filter, it displays the respective workspaces that the user has searched for.
+
+![Images](/images/apicollectionsresult.png)
+
+
 Key download - Its a clickable text on click of it will download the project primary and seconday keys as a new Zip file.
 
 SDK Download -  Its a clickable text on click of it will download the project SDKs as a new Zip file.

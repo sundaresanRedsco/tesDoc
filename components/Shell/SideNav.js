@@ -175,7 +175,9 @@ const items = [
           { href: '/docs/jsonoperation', children: 'Json Operation' }
         ]
       },
-      
+      {
+        href: '/docs/Composite', children: 'Composite'
+      },
       {
         href: '/docs/publish', children: 'Publish'
       },

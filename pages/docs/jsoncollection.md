@@ -20,7 +20,7 @@ From the project overview screen on the top right corner has the New button to c
 ![Images](/images/slide400.png)
 
 
-When **Selecting JSON** as the communication protocol, the collection screen provides various fields for configuration. These typically include Collection Name (a Textbox), Type (a Dropdown), Version (a Dropdown), Enter Base URL (a Textbox), Add Global Header Key (a Table), Encode (a Checkbox), and Description (a Text Area)
+When **Selecting JSON** as the communication protocol, the collection screen provides various fields for configuration. These typically include Collection Name *(a Textbox, 30-character limit), Type *(a Dropdown), Version *(a Dropdown), Enter Base URL *(a Textbox), Add Global Header Key *(a Table), Encode *(a Checkbox), and Description *(a Text Area, 300-character limit)
 
 
 On clicking the save button, a JSON collection gets created.
@@ -33,6 +33,12 @@ On clicking the save button, a JSON collection gets created.
 
 
 ![Images](/images/collectioncretaedtoast.png)
+
+If a user attempts to create a collections with a name that already exists, an error will be displayed: 
+
+**Collection name is already used. Please use different name**.
+
+![Images](/images/jsonlimit.png)
 
 
 The created JSON collection will be displayed on the project screen.
@@ -56,5 +62,6 @@ On click of the delete icon, it will display the delete confirmation popup. On c
 
 ![Images](/images/wpjsdeletepopup.png)
    
+
 
 

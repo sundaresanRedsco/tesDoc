@@ -115,6 +115,19 @@ The header bar includes tabs for **Home**, **Workspace**, and **Reports**. These
 
 Clicking the 'Click here' option on the homepage will navigate you to the permission page.
 
+## Roles
+Roles interface to view all the the users role available in the NXT  api matrix. The system consists of three roles Owner, Admin and Member.
+
+- **Owner** - The owner user has full access to the workspace and it's project to view all the workspace and project logs and data, and the owner cannot be removed from any workspace or project. If the owner wishes to leave a workspace or project, they can grant access to someone else as the owner and then remove themselves.
+
+- **Admin** - The admin user has full access to the workspace and project logs and data where the admin role is assigned. An admin can be removed from any workspace or project by the owner, but a member cannot remove an admin from any workspace or project.
+
+![Images](/images/Admin.png)
+
+- **Member** - Member users can only create and modify projects in the workspace. They can also create and modify collections in projects. On the Member user page, members do not have access to the Permission tab, Report tab and Settings tab.
+ 
+![Images](/images/Member.png)
+
 ## Side Menu Bar
 
 The sidebar contains icons for the Homepage, Workspace, API Collections, Permissions, Reports, Settings, Account, and Logoff interfaces. When we hover over the side menu bar, it will expand.
@@ -168,3 +181,11 @@ When we click the Acoount icon, it will navigate to the Account page.
 When we click the Logoff icon, the NXT API Matrix platform will be logged out.
 
 ![Images](/images/sidemenu9.png)
+
+### Help Note
+
+A help note refers to a brief message or statement on our website designed to assist visitors or users. While clicking the ``?``, it shows a concise piece of text that provides guidance, information or a welcoming message to enhance the user experience on the site. In the context of a website, a help note might address common queries, explain features and simply offer a friendly greeting to visitors.
+
+![Images](/images/Helpnote.png)
+
+![Images](/images/Helpnote2.png)

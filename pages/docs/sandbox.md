@@ -16,6 +16,8 @@ Password must contain at least 8 characters, including 1 uppercase letter, 1 low
 When the user clicks **Save Button**, they will receive a confirmation email for account creation, allowing them to proceed with the NXT API Matrix platform
 
 The account activation mail link will redirect to the account activation page 
+
+
 ![Images](/images/accountacctivated.png)
 
 Upon clicking the **Proceed Button**, you will be redirected to the NXT API Matrix login page

@@ -20,7 +20,7 @@ NXT is an API manager platform to bring in all your APIs under one platform. Org
 
 ## Why NXT?
 
-A platform for making things organized and secure. Effective API lifecycle management for delivering high quality APIs that meets user needs and support business objectives. By following the best practices which ensures te API's are secure, reliable and adatable to changing requirments. Contributes to enhance the developer experiences, increased innovation and improved over all business comes.
+A platform for making things organized and secure. Effective API lifecycle management for delivering high quality APIs that meets user needs and support business objectives. By following the best practices which ensures the API's are secure, reliable and adaptable to changing requirments. Contributes to enhance the developer experiences, increased innovation and improved over all business comes.
 ## Key Features
 
 ## Manage enterprise multiple app through NXT

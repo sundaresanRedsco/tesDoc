@@ -52,6 +52,6 @@ The user will receive an account activation confirmation email at their work ema
 On the left-side row, the existing team members of the project who have registered or logged in via the invite member flow will be displayed.
   ![Images](/images/show62.png)
 
-   
+
 
 
